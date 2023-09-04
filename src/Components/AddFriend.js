@@ -10,6 +10,10 @@ const AddFriend = () => {
         <input id="friendname" />
       </div>
       <div>
+        <label htmlFor="friendage">Friend Age:</label>
+        <input id="friendage" />
+      </div>
+      <div>
         <label htmlFor="friendemail">Friend Email:</label>
         <input id="friendemail" />
       </div>
